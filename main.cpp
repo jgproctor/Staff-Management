@@ -691,7 +691,7 @@ int main()
                 staff.REMOVEALL();
                 system("pause");
                 exit(0);
-                break;
+                //break;
             }
             
             
